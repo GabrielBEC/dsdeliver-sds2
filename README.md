@@ -20,25 +20,25 @@ Ds delivery é uma aplicação construída durante a **2ª edição da Semana De
 
 # :hammer:Tecnologias
 
-## Back-end
+### Back-end
 
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
 
-## Front-end
+### Front-end
 
 - HTML / CSS / JS / Typescript
 - ReactJS
 - Axios
 
-## Mobile
+### Mobile
 
 * React Native
 * Expo
 
-## Implantação
+### Implantação
 
 * Front-end: Netlify
 * Back-end: Heroku
